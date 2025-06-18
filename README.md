@@ -52,5 +52,5 @@ Sprouties aims to encourage a **healthier relationship with food from early chil
 
 > “Harvesting healthy habits from an early age.” — **Sprouties**
 
-![SproutiesApp Banner](<img width="1009" alt="Captura de Tela 2025-06-17 às 18 34 38" src="https://github.com/user-attachments/assets/320f70ac-1c5b-4004-a25b-2b512f8e4f2f" />
-) <!-- Replace with actual image URL -->
+<img width="1009" alt="Captura de Tela 2025-06-17 às 18 34 38" src="https://github.com/user-attachments/assets/f25b6b0a-b8f2-4555-b448-a28dce7c53c1" />
+
